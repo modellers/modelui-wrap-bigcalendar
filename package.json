@@ -11,7 +11,7 @@
     "node": "14.19.0"
   },
   "dependencies": {
-    "modelui-core-runtime": "../modelui-core-runtime",
+    "modelui-core-runtime": "git+https://github.com/modellers/modelui-core-runtime",
     "moment": "^2.29.4",
     "react": "17.0.0",
     "react-big-calendar": "^0.38.2",
